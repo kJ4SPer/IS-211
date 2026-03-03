@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Business Idea Description
+## 1. Business Idea Description (Mats)
 
 ### The Idea
 **ParkEasy** is a city-operated digital parking management system designed to help citizens find, reserve, and manage parking spots in real time. The system is owned and operated by the municipality, functioning as a public digital service — similar to public transportation apps or online citizen portals.
@@ -40,7 +40,7 @@ As a public sector initiative, ParkEasy aligns with municipal obligations to pro
 
 ---
 
-## 2. Application Features
+## 2. Application Features (Hans Kristian)
 
 The prototype is implemented in Python and demonstrates the core logic of the system. A production version would include a web or mobile frontend, a database backend, and integration with payment and traffic systems.
 
@@ -121,7 +121,7 @@ This function must visit every spot once to check availability. There is no shor
 
 ---
 
-## 3. Analysis of Python Code
+## 3. Analysis of Python Code (Kristian)
 
 The application demonstrates three distinct time complexity classes.
 
@@ -176,7 +176,7 @@ This cannot be reduced to O(1) without maintaining a separate index of available
 
 ---
 
-## 4. Data Structures
+## 4. Data Structures (Kasper)
 
 The application uses two primary data structures covered in IS-211.
 
